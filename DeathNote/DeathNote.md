@@ -66,6 +66,9 @@
 
 У результаті сканування було виявлено системний файл /robots.txt та панель адміністратора /wordpress/wp-login.php.
 
+<img width="585" height="415" alt="image" src="https://github.com/user-attachments/assets/b1daf150-3d5e-4b83-b427-06275d06e27b" />
+
+
 Звернення до /robots.txt вивело текстову підказку з рекомендацією перейти до файлу /important.jpg.
 
 <img width="1366" height="768" alt="Screenshot_2026-07-26_12_41_40" src="https://github.com/user-attachments/assets/808f0a82-6148-4e61-8f3e-b31aeb95647e" />
