@@ -35,7 +35,7 @@
 
 <img width="867" height="421" alt="image" src="https://github.com/user-attachments/assets/e14d42e5-53a2-48a4-8f23-a0a4ecacd780" />
 
-Тепер почнемо брут-форс за словником. Обираю користувача c0ldd тому що на ip-адресі яку ми сканували змінилось повідомлення на: «C0ldd, you changed Hugo's password, when you can send it to him so he can continue uploading his a...»
+Тепер почнемо брут-форс за словником. Обираю користувача c0ldd тому що на ip-адресі яку ми сканували було повідомлення на: «C0ldd, you changed Hugo's password, when you can send it to him so he can continue uploading his articless. Philip»
 тобто обираємо користувача c0ldd для проведення брутфорсу тому, що цей запис вказує на його адміністративні привілеї. Той факт, що він може змінювати паролі інших користувачів (зокрема, користувача hugo), свідчить про те, що зламавши саме його акаунт,
 ми отримаємо найбільші права та контроль над системою.
 
