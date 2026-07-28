@@ -19,7 +19,7 @@
 
 <img width="1366" height="768" alt="Screenshot_2026-07-26_16_03_46" src="https://github.com/user-attachments/assets/2a4c80aa-b9df-4ded-9e06-5489df81800c" />
 
-Проведжу дослідження структури вебсайту за допомогою gobuster:
+Проведу дослідження структури вебсайту за допомогою gobuster:
 
 `gobuster dir -u http://10.0.2.12/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt`
 
