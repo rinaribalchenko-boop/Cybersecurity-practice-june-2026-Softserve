@@ -56,6 +56,11 @@ suricata '--version`'
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b478179e-3780-4f1b-838b-2c780b5494f8" />
 
+Перевіряю конфігурацію:
+`sudo suricata -T -c /etc/suricata/suricata.yaml`
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4934e9a3-1160-4afe-84ee-94599685dcd8" />
+
 
 
 
