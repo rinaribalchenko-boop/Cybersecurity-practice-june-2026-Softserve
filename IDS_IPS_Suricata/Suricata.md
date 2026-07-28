@@ -47,6 +47,20 @@ suricata '--version`'
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ecb40fd9-38c6-486f-8a87-b7f83c51509e" />
 
+Прописую `ip a` `ip link` щоб знайти мережевий інтерфейс:
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8f0ab6fb-937a-42ba-abf5-407a0075c514" />
+
+Дізнаємося ip-адресу, налаштуємо HOME_NET відкриваю конфігурацію:
+`sudo nano /etc/suricata/suricata.yaml`
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b478179e-3780-4f1b-838b-2c780b5494f8" />
+
+
+
+
+
+
 
 
 
