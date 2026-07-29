@@ -51,7 +51,8 @@ suricata --version
 
 `sudo suricata-update`
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ecb40fd9-38c6-486f-8a87-b7f83c51509e" />
+<img width="901" height="467" alt="image" src="https://github.com/user-attachments/assets/07b9e4e1-77ef-4278-b708-5e9ea795f95b" />
+
 
 Команда автоматично завантажує та оновлює базу правил Suricata з офіційних джерел. Отримані сигнатури використовуються для виявлення сучасних мережевих атак та інших загроз.
 
